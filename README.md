@@ -261,4 +261,3 @@ JSON data, along with the appropriate HTTP status code:
 }
 ```
 >>>>>>> 4f5784c (Initial Commit)
-# superheroes-code-challenge
