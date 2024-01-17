@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Phase-4-Code-Challenge-Superheroes
 Phase 4 Code Challenge: Superheroes
 =======
@@ -261,3 +262,6 @@ JSON data, along with the appropriate HTTP status code:
 }
 ```
 >>>>>>> 4f5784c (Initial Commit)
+=======
+# superheroes-code-challenge
+>>>>>>> origin/main
